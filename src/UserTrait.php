@@ -1,6 +1,6 @@
 <?php
 
-namespace damirka\JWT;
+namespace vaszloy\JWT;
 
 use Firebase\JWT\JWT;
 

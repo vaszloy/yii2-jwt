@@ -1,8 +1,8 @@
 {
-    "name": "damirka/yii2-jwt",
+    "name": "vaszloy/yii2-jwt",
     "keywords": ["yii", "jwt"],
     "description": "Trait for easier JWT integration",
-    "homepage": "https://github.com/damirka/yii2-jwt",
+    "homepage": "https://github.com/vaszloy/yii2-jwt",
     "minimum-stability": "stable",
     "type": "yii2-extension",
     "license": "MIT",
@@ -18,6 +18,6 @@
     },
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "firebase/php-jwt": "~3.0.0"
+        "firebase/php-jwt": "^5.0"
     }
 }
