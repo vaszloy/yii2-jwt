@@ -14,7 +14,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"damirka\\JWT\\": "src/"}
+        "psr-4": {"vaszloy\\JWT\\": "src/"}
     },
     "require": {
         "yiisoft/yii2": "~2.0.0",
